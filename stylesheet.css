@@ -35,7 +35,10 @@ li {
 .header-logo {
     float: left;
     font-size: 100px;
+    padding: 0;
+    margin: 0;
 }
+
 
 .header-list li {
     float: left; 
@@ -51,7 +54,8 @@ li {
 
 .main h3 {
     background-color: #505050;
-    color: #ccc;
+    color: #ccc;  
+    margin-top: 50px;
 }
 
 .link_btn {
